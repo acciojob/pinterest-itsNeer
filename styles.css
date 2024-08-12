@@ -13,8 +13,12 @@ img{
 	text-align:center;
 }
 
-#herobtn{
+.herobtn{
 	padding: 5px;
 	background-color: red;
 	color: white;
+	text-decoration: none;
+	border: 2px solid red;
+	border-radius: 5px;
+	
 }
